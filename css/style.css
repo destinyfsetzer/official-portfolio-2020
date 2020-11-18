@@ -112,17 +112,20 @@ p {
 .project-btn {
   background-color: #000000;;
   border-radius: 100px;
-  font-size: 20px;
+  font-size: 13px;
   font-weight: normal;
   color:  #f9f9f9;
   letter-spacing: 1.6px;
   padding: 14px 28px;
-  margin-top: 0px;
+  margin-top: 10px;
   -webkit-transition: all ease-in-out 0.8s;
   transition: all ease-in-out 0.8s;
   text-transform: uppercase;
 }
 
+.project-buttons {
+  margin-left: 25px;
+}
 
 /*---------------------------------------
     2 General
@@ -255,6 +258,7 @@ a:hover, a:active, a:focus {
 .title-name {
  letter-spacing: 3px;
   font-size: 30px;
+  padding: 5px 10px;
 }
 
 .custom-navbar .nav li a {
@@ -327,6 +331,7 @@ a:hover, a:active, a:focus {
 
 #home .home-img {
   background: url('https://images.unsplash.com/photo-1576502200916-3808e07386a5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1346&q=80') no-repeat;
+  /* background: url('https://images.unsplash.com/photo-1581265463006-f019c3419709?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=664&q=80') no-repeat; */
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
