@@ -334,7 +334,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('https://images.unsplash.com/photo-1576502200916-3808e07386a5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1346&q=80') no-repeat;
+  background: url('https://images.unsplash.com/photo-1581265463006-f019c3419709?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=664&q=80') no-repeat;
   /* background: url('https://images.unsplash.com/photo-1581265463006-f019c3419709?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=664&q=80') no-repeat; */
   background-size: cover;
   background-position: 50% 50%;
@@ -452,6 +452,10 @@ a:hover, a:active, a:focus {
   position: relative;
   top: 0;
 
+}
+
+.work-2 {
+  margin-top: 30px;
 }
 
 .work-thumb img:hover{
