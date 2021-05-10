@@ -23,6 +23,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Karla:400,400i');
 
+html {
+  scroll-behavior: smooth
+}
+
 body {
     background: #ffffff;
     font-family: 'Karla', sans-serif;
