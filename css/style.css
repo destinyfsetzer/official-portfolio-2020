@@ -42,7 +42,7 @@ body {
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  font-size: 33px;
+  font-size: 30px;
   border-radius: 3px;
   border: none;
   outline: none;
@@ -280,8 +280,10 @@ a:hover, a:active, a:focus {
 }
 
 .title-name {
-  font-size: 30px;
+  font-size: 35px;
   padding: 0px 10px;
+  letter-spacing: 3px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .custom-navbar .nav li a {
