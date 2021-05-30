@@ -424,9 +424,9 @@ a:hover, a:active, a:focus {
     7 About section
 -----------------------------------------*/
 
-#about {
+/* #about {
   border-bottom: 1px solid #f5f5f5;
-}
+} */
 
 .about-text {
   padding-top: 42px;
