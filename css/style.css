@@ -88,7 +88,7 @@ h4 {
 }
 
 h5 {
-  color: #656565;
+  color: #9C5139;
   letter-spacing: 0.5px;
 }
 
@@ -125,7 +125,7 @@ p {
 
 .section-btn:focus,
 .section-btn:hover {
-  background: #000000;
+  background: #9C5139;
   color: #ffffff;
 }
 
@@ -280,10 +280,8 @@ a:hover, a:active, a:focus {
 }
 
 .title-name {
-  font-size: 35px;
   padding: 0px 10px;
   letter-spacing: 3px;
-  font-family: 'Montserrat', sans-serif;
 }
 
 .custom-navbar .nav li a {
@@ -298,7 +296,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
   background: transparent;
-  color: #353535;
+  color: #9C5139;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -355,7 +353,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('https://images.unsplash.com/photo-1581265463006-f019c3419709?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=664&q=80') no-repeat;
+  background: url('./../images/home.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -696,7 +694,7 @@ footer {
 .social-icon li a {
   background: #f9f9f9;
   border-radius: 100%;
-  color: #999;
+  color: #CB9484;
   cursor: pointer;
   font-size: 25px;
   text-decoration: none;
@@ -713,9 +711,9 @@ footer {
 
 .social-icon li a:hover {
   background: #f2f2f2;
-  color: #000000;
+  color: #9C5139;
   -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+  transform: scale(1.3);
 }
 
 
