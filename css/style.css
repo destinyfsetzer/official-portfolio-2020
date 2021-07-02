@@ -284,7 +284,7 @@ a:hover, a:active, a:focus {
   letter-spacing: 3px;
 }
 
-.custom-navbar .nav li a {
+.custom-navbar .nav li a { 
   font-size: 14px;
   color: #656565;
   line-height: 40px;
@@ -353,7 +353,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('./../images/home.jpg') no-repeat;
+  background: url('./../images/photo-1540760938999-077b8231d890.jpeg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
